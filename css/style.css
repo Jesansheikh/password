@@ -1,0 +1,22 @@
+*{
+    margin: 0 auto;
+}
+
+.password {
+    height: 38px;
+    width: 128px;
+    margin: 21px;
+    border-radius: 19px;
+    padding-left: 29px;
+    padding-right: 51px;
+}
+
+#eye{
+    height: 19px;
+    width: 16px;
+    margin: 0px;
+    margin-top: -50px;
+    margin-left: 202px;
+    position: absolute;
+    border-radius: 15px;
+}
